@@ -9,5 +9,6 @@ to add 3 more cards, having custom shapes, and having the cards light up to indi
 <li>Shape (rectangle, capsule, diamond)</li>
 <li>Shading (solid, faded, open)</li>
 </ul>
+
 ## Picture
 ![](https://github.com/allending20000/Stanford193p-SET/blob/main/setpics/Screen%20Shot%202021-03-24%20at%203.37.41%20AM.png)
